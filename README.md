@@ -7,8 +7,8 @@ The dataset comprises insurance claim records with features related to policy de
 
 ## Key Steps
 **Data Preprocessing:** Cleaning and encoding of the dataset to prepare it for analysis.
-**Exploratory Data Analysis (EDA): **Visual and statistical examination of data to understand patterns, detect outliers, and identify significant variables.
-**Feature Engineering: **Enhancement of the dataset with new features to improve model accuracy.
+**Exploratory Data Analysis (EDA):** Visual and statistical examination of data to understand patterns, detect outliers, and identify significant variables.
+**Feature Engineering:** Enhancement of the dataset with new features to improve model accuracy.
 **Modeling:** Deployment of machine learning algorithms, including Decision Tree and Random Forest classifiers, to predict fraudulent claims.
 **Evaluation:** Assessment of model performance using metrics such as accuracy, precision, recall, and F1 score.
 **Hyperparameter Tuning:** Optimization of model parameters using GridSearchCV for enhanced prediction capability.
