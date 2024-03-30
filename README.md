@@ -1,6 +1,6 @@
 # Vehicle Insurance Fraud Detection
 ## Overview
-This project aims to identify and predict fraudulent activities in vehicle insurance claims. Utilizing machine learning algorithms, we analyze historical insurance claim data to uncover patterns indicative of fraud. The outcome assists insurance companies like Zurich in enhancing their fraud detection capabilities, thereby saving costs and improving customer trust.
+This project aims to identify and predict fraudulent activities in vehicle insurance claims. Utilizing machine learning algorithms, we analyze historical insurance claim data to uncover patterns indicative of fraud. The outcome assists insurance companies in enhancing their fraud detection capabilities, leading to saving costs and improving customer trust.
 
 ## Dataset
 The dataset comprises insurance claim records with features related to policy details, customer demographics, incident specifics, and claim amounts. Notable columns include policy_number, insured_sex, incident_type, collision_type, incident_severity, and fraud_reported.
